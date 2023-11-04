@@ -196,3 +196,36 @@ margin-left: 10px;
     max-width: 1200px;
     margin: 0 auto;
     gap: 30px; }
+    .box {
+        max-width: 1200px;
+        margin: 0 auto;
+
+    }
+    .address-list-link {
+        color: white;
+
+    }
+    body {
+        margin: 0;
+        
+    }
+    .filters-list-btn{
+        font-family: Roboto;
+font-size: 16px;
+font-weight: 500;
+line-height: 26px;
+letter-spacing: 0.03em;
+text-align: center;
+color: #212121;
+border: none;
+    }
+    .filters-list-btn:hover{
+        background-color: #2196F3;
+        color: #FFFFFF;
+        cursor:pointer;
+        
+    }
+.portfolio-section{
+    padding-top: 94px;
+    padding-bottom: 94px;
+}
